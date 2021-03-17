@@ -1,0 +1,5 @@
+"Src/led_blink.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f407vgtx.o"
+"drivers/Src/STM32F4xx_GPIO_DRIVER.o"
